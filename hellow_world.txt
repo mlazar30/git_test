@@ -1,0 +1,2 @@
+Adding lines of text
+to test commit process
